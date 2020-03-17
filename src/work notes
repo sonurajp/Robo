@@ -1,0 +1,4 @@
+card.js and CardList.js
+ card is to make show what we want to display and card list is to show how many cards and the values we want in it
+ //event.target.vaule gives the value of what we typed check console in browser
+ //the reason why we used aroow function explained in video  210 20:50
